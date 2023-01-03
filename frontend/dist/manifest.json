@@ -1,0 +1,34 @@
+{
+  "index.html": {
+    "file": "assets/index.f233b16a.js",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "pages/front-page.vue",
+      "pages/error-404.vue"
+    ],
+    "css": [
+      "assets/index.e7043f37.css"
+    ]
+  },
+  "pages/front-page.vue": {
+    "file": "assets/front-page.0648808b.js",
+    "src": "pages/front-page.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "pages/error-404.vue": {
+    "file": "assets/error-404.dbfe4be2.js",
+    "src": "pages/error-404.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "index.css": {
+    "file": "assets/index.e7043f37.css",
+    "src": "index.css"
+  }
+}
